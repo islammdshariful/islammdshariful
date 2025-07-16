@@ -23,8 +23,11 @@ I’m a **QA Engineer** with 5+ years of experience ensuring software quality ac
 
 ## 🚀 Let's Connect
 
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/islamdshariful/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:islammdshariful.sabbir@gmail.com)
+
+
+📧 Email: islammdshariful.sabbir@gmail.com
 
 
 
