@@ -1,35 +1,26 @@
-# 👋 Hi, I’m Shariful – QA Engineer | Automation Enthusiast
+# Hi, I'm Shariful
 
-I’m a **QA Engineer** with 5+ years of experience ensuring software quality across WordPress-based products.
-
----
-
-## 👨‍💻 What I Do
-
-- 🧪 QA Specialist with deep curiosity for exploring edge cases
-- 🤖 Automate end-to-end tests with **Playwright**
-- 🧠 Write smart, modular, and scalable test scripts
-- 🛠️ Optimize QA workflows with efficient tooling
+QA Engineer, dad to a little girl, who loves making sure things actually work.
 
 ---
 
-## 🛠️ Tech Stack
+### What I Do
 
-![Playwright](https://img.shields.io/badge/Playwright-%23000000?style=for-the-badge&logo=playwright&logoColor=green)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![WordPress](https://img.shields.io/badge/WordPress-%23117AC9?style=for-the-badge&logo=wordpress&logoColor=white)
-
----
-
-## 🚀 Let's Connect
-
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/islamdshariful/)
-
-
-📧 Email: islammdshariful.sabbir@gmail.com
-
-
+- End-to-end test automation with **Playwright**
+- AI-powered QA workflows using **Claude Code** and **Cursor**
+- CI/CD integration with **GitHub Actions**, **Docker**, and **BuildKite**
+- Plugin and platform ecosystem testing
 
 ---
 
+### Writing
+
+I write about practical QA engineering — things I've learned, built, and broken along the way.
+
+> [islammdshariful.github.io](https://islammdshariful.github.io)
+
+---
+
+### Connect
+
+[LinkedIn](https://www.linkedin.com/in/islamdshariful/) · [Email](mailto:islammdshariful.sabbir@gmail.com) · [Buy me a coffee](https://buymeacoffee.com/islammdshariful)
