@@ -1,0 +1,134 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 260" width="1000" height="260" role="img" aria-label="Md. Shariful Islam — Senior QA Engineer at Awesome Motive">
+	<title>Md. Shariful Islam — Senior QA Engineer</title>
+
+	<defs>
+		<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+			<stop offset="0%" stop-color="#0d1117"/>
+			<stop offset="55%" stop-color="#11161d"/>
+			<stop offset="100%" stop-color="#0d1117"/>
+		</linearGradient>
+
+		<radialGradient id="glow" cx="50%" cy="50%" r="50%">
+			<stop offset="0%" stop-color="#58a6ff" stop-opacity="0.30"/>
+			<stop offset="100%" stop-color="#58a6ff" stop-opacity="0"/>
+		</radialGradient>
+
+		<radialGradient id="glow2" cx="50%" cy="50%" r="50%">
+			<stop offset="0%" stop-color="#3fb950" stop-opacity="0.18"/>
+			<stop offset="100%" stop-color="#3fb950" stop-opacity="0"/>
+		</radialGradient>
+
+		<pattern id="dots" width="22" height="22" patternUnits="userSpaceOnUse">
+			<circle cx="1.6" cy="1.6" r="1.4" fill="#30363d" fill-opacity="0.55"/>
+		</pattern>
+
+		<clipPath id="panel">
+			<rect x="1" y="1" width="998" height="258" rx="18"/>
+		</clipPath>
+
+		<clipPath id="type0"><rect x="72" y="188" width="0" height="32">
+			<animate attributeName="width" dur="20s" repeatCount="indefinite"
+				keyTimes="0;0.065;0.185;0.2;1" values="0;599;599;0;0"/>
+		</rect></clipPath>
+		<clipPath id="type1"><rect x="72" y="188" width="0" height="32">
+			<animate attributeName="width" dur="20s" repeatCount="indefinite"
+				keyTimes="0;0.2;0.265;0.385;0.4;1" values="0;0;548;548;0;0"/>
+		</rect></clipPath>
+		<clipPath id="type2"><rect x="72" y="188" width="0" height="32">
+			<animate attributeName="width" dur="20s" repeatCount="indefinite"
+				keyTimes="0;0.4;0.465;0.585;0.6;1" values="0;0;359;359;0;0"/>
+		</rect></clipPath>
+		<clipPath id="type3"><rect x="72" y="188" width="0" height="32">
+			<animate attributeName="width" dur="20s" repeatCount="indefinite"
+				keyTimes="0;0.6;0.665;0.785;0.8;1" values="0;0;333;333;0;0"/>
+		</rect></clipPath>
+		<clipPath id="type4"><rect x="72" y="188" width="0" height="32">
+			<animate attributeName="width" dur="20s" repeatCount="indefinite"
+				keyTimes="0;0.8;0.865;0.985;1" values="0;0;548;548;0"/>
+		</rect></clipPath>
+	</defs>
+
+	<g clip-path="url(#panel)">
+		<rect x="0" y="0" width="1000" height="260" fill="url(#bg)"/>
+		<circle cx="905" cy="10" r="290" fill="url(#glow)"/>
+		<circle cx="70" cy="255" r="220" fill="url(#glow2)"/>
+		<rect x="0" y="0" width="1000" height="260" fill="url(#dots)"/>
+
+		<!-- title bar -->
+		<rect x="0" y="0" width="1000" height="60" fill="#161b22" fill-opacity="0.72"/>
+		<line x1="0" y1="60" x2="1000" y2="60" stroke="#30363d" stroke-width="1"/>
+		<circle cx="42" cy="30" r="6" fill="#ff5f57"/>
+		<circle cx="64" cy="30" r="6" fill="#febc2e"/>
+		<circle cx="86" cy="30" r="6" fill="#28c840"/>
+		<text x="116" y="35" font-family="ui-monospace, SFMono-Regular, SF Mono, Menlo, Consolas, monospace" font-size="13" fill="#8b949e">~/islammdshariful — zsh</text>
+
+		<!-- name + role -->
+		<text x="46" y="126" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif" font-size="40" font-weight="700" fill="#e6edf3" letter-spacing="-0.6">Md. Shariful Islam</text>
+		<text x="48" y="156" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif" font-size="16.5" fill="#8b949e">Senior QA Engineer<tspan fill="#484f58"> · </tspan>Awesome Motive</text>
+
+		<!-- terminal line -->
+		<text x="46" y="212" font-family="ui-monospace, SFMono-Regular, SF Mono, Menlo, Consolas, monospace" font-size="21" fill="#3fb950">$</text>
+
+		<g opacity="1">
+			<animate attributeName="opacity" dur="20s" repeatCount="indefinite" calcMode="discrete" keyTimes="0;0.2" values="1;0"/>
+			<g clip-path="url(#type0)">
+				<text x="72" y="212" font-family="ui-monospace, SFMono-Regular, SF Mono, Menlo, Consolas, monospace" font-size="21" fill="#e6edf3">quality control that catches it before users do</text>
+			</g>
+			<rect y="192" width="11" height="24" fill="#58a6ff" x="72">
+				<animate attributeName="x" dur="20s" repeatCount="indefinite"
+					keyTimes="0;0.065;0.185;0.2;1" values="72;671;671;72;72"/>
+				<animate attributeName="opacity" dur="1s" repeatCount="indefinite" calcMode="discrete" keyTimes="0;0.5" values="1;0.15"/>
+			</rect>
+		</g>
+
+		<g opacity="0">
+			<animate attributeName="opacity" dur="20s" repeatCount="indefinite" calcMode="discrete" keyTimes="0;0.2;0.4" values="0;1;0"/>
+			<g clip-path="url(#type1)">
+				<text x="72" y="212" font-family="ui-monospace, SFMono-Regular, SF Mono, Menlo, Consolas, monospace" font-size="21" fill="#e6edf3">ai agents that plan, review &amp; execute tests</text>
+			</g>
+			<rect y="192" width="11" height="24" fill="#58a6ff" x="72">
+				<animate attributeName="x" dur="20s" repeatCount="indefinite"
+					keyTimes="0;0.2;0.265;0.385;0.4;1" values="72;72;620;620;72;72"/>
+				<animate attributeName="opacity" dur="1s" repeatCount="indefinite" calcMode="discrete" keyTimes="0;0.5" values="1;0.15"/>
+			</rect>
+		</g>
+
+		<g opacity="0">
+			<animate attributeName="opacity" dur="20s" repeatCount="indefinite" calcMode="discrete" keyTimes="0;0.4;0.6" values="0;1;0"/>
+			<g clip-path="url(#type2)">
+				<text x="72" y="212" font-family="ui-monospace, SFMono-Regular, SF Mono, Menlo, Consolas, monospace" font-size="21" fill="#e6edf3">playwright end-to-end suites</text>
+			</g>
+			<rect y="192" width="11" height="24" fill="#58a6ff" x="72">
+				<animate attributeName="x" dur="20s" repeatCount="indefinite"
+					keyTimes="0;0.4;0.465;0.585;0.6;1" values="72;72;431;431;72;72"/>
+				<animate attributeName="opacity" dur="1s" repeatCount="indefinite" calcMode="discrete" keyTimes="0;0.5" values="1;0.15"/>
+			</rect>
+		</g>
+
+		<g opacity="0">
+			<animate attributeName="opacity" dur="20s" repeatCount="indefinite" calcMode="discrete" keyTimes="0;0.6;0.8" values="0;1;0"/>
+			<g clip-path="url(#type3)">
+				<text x="72" y="212" font-family="ui-monospace, SFMono-Regular, SF Mono, Menlo, Consolas, monospace" font-size="21" fill="#e6edf3">ci pipelines you can trust</text>
+			</g>
+			<rect y="192" width="11" height="24" fill="#58a6ff" x="72">
+				<animate attributeName="x" dur="20s" repeatCount="indefinite"
+					keyTimes="0;0.6;0.665;0.785;0.8;1" values="72;72;405;405;72;72"/>
+				<animate attributeName="opacity" dur="1s" repeatCount="indefinite" calcMode="discrete" keyTimes="0;0.5" values="1;0.15"/>
+			</rect>
+		</g>
+
+		<g opacity="0">
+			<animate attributeName="opacity" dur="20s" repeatCount="indefinite" calcMode="discrete" keyTimes="0;0.8" values="0;1"/>
+			<g clip-path="url(#type4)">
+				<text x="72" y="212" font-family="ui-monospace, SFMono-Regular, SF Mono, Menlo, Consolas, monospace" font-size="21" fill="#e6edf3">security and permission gaps surfaced early</text>
+			</g>
+			<rect y="192" width="11" height="24" fill="#58a6ff" x="72">
+				<animate attributeName="x" dur="20s" repeatCount="indefinite"
+					keyTimes="0;0.8;0.865;0.985;1" values="72;72;620;620;72"/>
+				<animate attributeName="opacity" dur="1s" repeatCount="indefinite" calcMode="discrete" keyTimes="0;0.5" values="1;0.15"/>
+			</rect>
+		</g>
+	</g>
+
+	<rect x="1" y="1" width="998" height="258" rx="18" fill="none" stroke="#30363d" stroke-width="1.5"/>
+</svg>
